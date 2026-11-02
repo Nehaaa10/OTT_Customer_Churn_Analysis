@@ -30,8 +30,8 @@ The project uses an OTT customer subscription dataset containing customer detail
 
 **Important Dataset Columns:**
 
-| Column Name | 
-|---|---|
+| Column Name 
+|---|
 customerid | subscription_start_date|
 subscription_type | renewal_date |
 plan_type | contract_type | 
